@@ -21,6 +21,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/amarillo"
         android:text="HOLA"
         android:textColor="@android:color/holo_red_dark"
         tools:layout_editor_absoluteX="148dp"
@@ -30,6 +31,7 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/amarillo"
         android:text="SALUDO"
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="406dp" />
@@ -38,7 +40,7 @@
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@color/azul"
+        android:background="@color/amarillo"
         android:text="Prueba1"
         tools:layout_editor_absoluteX="269dp"
         tools:layout_editor_absoluteY="328dp" />
